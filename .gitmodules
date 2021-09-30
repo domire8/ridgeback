@@ -1,0 +1,9 @@
+[submodule "source/ridgeback"]
+	path = source/ridgeback
+	url = https://github.com/ridgeback/ridgeback
+[submodule "source/ridgeback_desktop"]
+	path = source/ridgeback_desktop
+	url = https://github.com/ridgeback/ridgeback_desktop
+[submodule "source/ridgeback_simulator"]
+	path = source/ridgeback_simulator
+	url = https://github.com/ridgeback/ridgeback_simulator
